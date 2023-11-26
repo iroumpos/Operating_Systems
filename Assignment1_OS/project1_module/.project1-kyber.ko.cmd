@@ -1,0 +1,1 @@
+cmd_/home/dusu/hw/hw1/2.2/project1_module/project1-kyber.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/dusu/hw/hw1/2.2/project1_module/project1-kyber.ko /home/dusu/hw/hw1/2.2/project1_module/project1-kyber.o /home/dusu/hw/hw1/2.2/project1_module/project1-kyber.mod.o;  true
